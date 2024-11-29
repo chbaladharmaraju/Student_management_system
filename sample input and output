@@ -1,0 +1,27 @@
+Sample Input/Output
+Add Student:
+Enter student name: Balu
+Enter roll number: 101
+Enter course: Computer Science
+Student added successfully!
+
+Display Students:
+Student Records:
++-------+-------------+------------------+
+| Name  | Roll Number |      Course      |
++-------+-------------+------------------+
+| Balu  |     101     | Computer Science |
++-------+-------------+------------------+
+
+Search for a Student:
+Enter the roll number of the student to search: 101
+Student Found:
++-------+-------------+------------------+
+| Name  | Roll Number |      Course      |
++-------+-------------+------------------+
+| Balu  |     101     | Computer Science |
++-------+-------------+------------------+
+
+Delete a Student:
+Enter the roll number of the student to delete: 101
+Student deleted successfully!
